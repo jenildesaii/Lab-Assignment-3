@@ -53,4 +53,4 @@ Body: (JSON)
 
 Method: DELETE
 
-URL: http://localhost:3002/movie/7
+URL: http://localhost:3002/movies/7
