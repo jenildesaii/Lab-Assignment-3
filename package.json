@@ -1,0 +1,17 @@
+{
+  "name": "main-root-folder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "node app3.js",
+  "dev": "nodemon app3.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
